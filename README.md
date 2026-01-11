@@ -16,7 +16,8 @@ Analyze delivery efficiency, warehouse performance, and shipment delays to optim
 Suggested actionable improvements with potential to reduce delivery delays by 10–15%.
 
 ## Files
-- `flipkart_logistics.sql` – SQL queries for analysis  
-- `kpi_analysis.xlsx` – Excel sheet with KPI calculations  
-- `dashboard.png` – Visual summary of key performance metrics
+- `sql.script` – SQL queries for analysis 
+- `Flipkart SQL Analytics Project.pdf` – PPT made using google slides to present the analysis  
+- `Flipkart SQL project.zip` – Zip file of the whole project
+  
 
